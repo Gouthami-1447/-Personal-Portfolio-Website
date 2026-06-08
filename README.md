@@ -31,17 +31,17 @@ portfolio/
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git  
+   git clone https://github.com/gouthami-1447/your- Personal Portfolio Website .git  
 
 2. Navigate to the project folder:
-   cd your-repo-name  
+   cd your- Personal Portfolio Website  
 
 3. Open index.html in your browser
 
 ## 📬 Contact
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+- Email: gaurhami.borkute@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/gouthami-borkute-772344397/
+- GitHub: https://github.com/Gouthami-1447
 
 ## ✨ Future Improvements
 - Add blog section  
